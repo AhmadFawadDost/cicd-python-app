@@ -1,4 +1,4 @@
-# CI/CD final demonstration
+# Final CI/CD recording demonstration
 def add(a, b):
     return a + b
 
