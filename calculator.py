@@ -1,4 +1,4 @@
-# Final CI/CD pipeline demonstration
+# CI/CD final demonstration
 def add(a, b):
     return a + b
 
